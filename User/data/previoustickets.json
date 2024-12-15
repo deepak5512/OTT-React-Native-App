@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "status": "Completed",
+    "details": "Delhi to Agra - Adult ticket",
+    "time": "15:30, Sep 25",
+    "actionLabel": "View Ticket"
+  },
+  {
+    "id": "2",
+    "status": "Completed",
+    "details": "Mumbai to Pune - Child ticket",
+    "time": "10:15, Sep 20",
+    "actionLabel": "View Ticket"
+  },
+  {
+    "id": "3",
+    "status": "Completed",
+    "details": "Bangalore to Hyderabad - Senior ticket",
+    "time": "08:45, Sep 10",
+    "actionLabel": "View Ticket"
+  },
+  {
+    "id": "4",
+    "status": "Completed",
+    "details": "Chennai to Coimbatore - Adult ticket",
+    "time": "12:00, Sep 5",
+    "actionLabel": "View Ticket"
+  },
+  {
+    "id": "5",
+    "status": "Completed",
+    "details": "Jaipur to Delhi - Student ticket",
+    "time": "14:50, Aug 30",
+    "actionLabel": "View Ticket"
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+      "id": "1",
+      "status": "Bus Delayed",
+      "details": "Delhi to Manali - Adult ticket",
+      "time": "13:00, Oct 10",
+      "actionLabel": "Track Bus"
+    },
+    {
+      "id": "2",
+      "status": "Confirmed",
+      "details": "Pune to Goa - Adult ticket",
+      "time": "09:30, Oct 12",
+      "actionLabel": "Cancel Ticket"
+    },
+    {
+      "id": "3",
+      "status": "Confirmed",
+      "details": "Ahmedabad to Mumbai - Child ticket",
+      "time": "17:45, Oct 15",
+      "actionLabel": "Cancel Ticket"
+    },
+    {
+      "id": "4",
+      "status": "Bus Delayed",
+      "details": "Kolkata to Siliguri - Senior ticket",
+      "time": "07:15, Oct 18",
+      "actionLabel": "Track Bus"
+    },
+    {
+      "id": "5",
+      "status": "Confirmed",
+      "details": "Chandigarh to Shimla - Adult ticket",
+      "time": "11:30, Oct 20",
+      "actionLabel": "Cancel Ticket"
+    }
+  ]
